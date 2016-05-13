@@ -2,10 +2,10 @@ use_frameworks!
 
 target 'WWHCircleSlide_Example' do
   pod 'WWHCircleSlide', :path => '../'
+end
 
   target 'WWHCircleSlide_Tests' do
-    inherit! :search_paths
+    pod 'WWHCircleSlide', :path => '../'
 
     pod 'Kiwi'
   end
-end

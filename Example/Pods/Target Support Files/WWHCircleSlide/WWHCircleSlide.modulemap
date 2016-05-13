@@ -1,0 +1,6 @@
+framework module WWHCircleSlide {
+  umbrella header "WWHCircleSlide-umbrella.h"
+
+  export *
+  module * { export * }
+}

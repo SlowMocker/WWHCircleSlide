@@ -1,0 +1,19 @@
+{
+  "name": "WWHCircleSlide",
+  "version": "0.1.0",
+  "summary": "A short description of WWHCircleSlide.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/WWHCircleSlide",
+  "license": "MIT",
+  "authors": {
+    "Wu": "2206618839@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/WWHCircleSlide.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WWHCircleSlide/Classes/**/*"
+}
